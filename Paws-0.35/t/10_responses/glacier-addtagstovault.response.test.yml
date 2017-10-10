@@ -1,4 +1,0 @@
----
-call: AddTagsToVault
-service: Glacier
-tests: []

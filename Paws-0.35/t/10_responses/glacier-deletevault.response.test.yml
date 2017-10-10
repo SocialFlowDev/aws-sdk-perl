@@ -1,4 +1,0 @@
----
-call: DeleteVault
-service: Glacier
-tests: []

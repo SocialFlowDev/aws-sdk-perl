@@ -1,4 +1,0 @@
----
-call: DeleteGroup
-service: IAM
-tests: []

@@ -1,4 +1,0 @@
----
-call: CreateInvalidation
-service: CloudFront
-tests: []

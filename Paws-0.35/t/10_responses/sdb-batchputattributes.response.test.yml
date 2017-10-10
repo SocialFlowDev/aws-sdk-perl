@@ -1,4 +1,0 @@
----
-call: BatchPutAttributes
-service: SDB
-tests: []

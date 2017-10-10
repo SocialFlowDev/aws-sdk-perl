@@ -1,4 +1,0 @@
----
-todo: test not completed
-call: GetBucketPolicy
-service: S3

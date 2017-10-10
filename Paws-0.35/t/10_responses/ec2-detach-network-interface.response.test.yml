@@ -1,4 +1,0 @@
----
-call: DetachNetworkInterface
-service: EC2
-tests:

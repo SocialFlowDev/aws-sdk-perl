@@ -1,4 +1,0 @@
----
-content: '{"Item":{"name":{"S":"celery.broker_url"},"value":{"S":"amqp://rabbitmq.company.com"}}}'
-headers: []
-status: 200

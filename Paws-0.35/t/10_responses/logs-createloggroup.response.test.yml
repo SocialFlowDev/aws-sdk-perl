@@ -1,4 +1,0 @@
----
-call: CreateLogGroup
-service: CloudWatchLogs
-tests: []

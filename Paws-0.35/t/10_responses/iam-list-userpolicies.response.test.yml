@@ -1,3 +1,0 @@
----
-call: ListUserPolicies
-service: IAM
