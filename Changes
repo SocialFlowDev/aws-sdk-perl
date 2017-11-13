@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+ - moved out failing tests.
+
 0.001     2017-10-10 21:12
 
  - Extricate only CloudwatchLogs for its own dist.
